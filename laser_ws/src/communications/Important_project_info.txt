@@ -1,0 +1,9 @@
+Link to class repo
+https://github.com/CVAutoNav/Laser
+
+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 - key for github
+
+Notes on meeting with UGV-A:
+- Send relative coordinates to the vehicle in .json format
+- Alternate option if they get the mapping done, send the coordinates of the object in the room and have the UGV do a circle of a certain radius around the object.
+

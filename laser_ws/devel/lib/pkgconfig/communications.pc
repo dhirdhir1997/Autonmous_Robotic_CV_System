@@ -1,0 +1,8 @@
+prefix=/home/laserteam/Desktop/Laser/laser_ws/devel
+
+Name: communications
+Description: Description of communications
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

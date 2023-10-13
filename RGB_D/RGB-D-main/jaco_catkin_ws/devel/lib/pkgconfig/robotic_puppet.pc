@@ -1,0 +1,8 @@
+prefix=/home/zzyjordan/ryan_do_not_touch/devel
+
+Name: robotic_puppet
+Description: Description of robotic_puppet
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/zzyjordan/ryan_do_not_touch/devel
+
+Name: rgbd
+Description: Description of rgbd
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

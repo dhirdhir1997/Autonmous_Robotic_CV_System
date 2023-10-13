@@ -1,0 +1,6 @@
+<launch>
+    <!-- Start the planning node -->
+    <node pkg="rgbd" type="planning_node.py" name="planning_node" output="screen">
+    </node>
+
+</launch>

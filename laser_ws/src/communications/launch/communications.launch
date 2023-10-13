@@ -1,0 +1,13 @@
+<launch>
+	<!-- Launch laptop_to_ugv node -->
+	<node name="laptop_to_ugv" pkg="communications" type="laptop_to_ugv.py" />
+
+	<!-- Launch ugv_to_laptop node -->
+	<node name="ugv_to_laptop" pkg="communications" type="ugv_to_laptop.py" />
+
+	<!-- Launch motor_interface node -->
+	<node name="motor_interface" pkg="communications" type="motor_interface.py" />
+
+	<!-- Launch ugv_dummy node -->
+	<!-- node name="ugv_dummy" pkg="communications" type="ugv_dummy.py" / -->
+</launch>

@@ -1,0 +1,6 @@
+devel_space: /home/zzyjordan/abb_ws/devel
+install: false
+install_space: /home/zzyjordan/abb_ws/install
+profile: default
+source_space: /home/zzyjordan/abb_ws/src
+workspace: /home/zzyjordan/abb_ws
