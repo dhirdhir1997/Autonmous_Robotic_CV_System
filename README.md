@@ -9,7 +9,8 @@ b.Integration of machine vision (SLAM & object
 recognition/scene segmentation)
 c. Design of feedback and motion planning strategies
 
-![image](https://github.com/dhirdhir1997/Autonmous_Robotic_CV_System/assets/119910232/25fddf9d-ed78-4952-8d75-7eb35671fde4)
+![image](https://github.com/dhirdhir1997/Autonmous_Robotic_CV_System/assets/119910232/ea602d43-28e2-4db1-906e-7179071b7f80)
+
 
 # Objective
 1. Move the robot around an object to be inspected while avoiding obstacles
